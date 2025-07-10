@@ -4,7 +4,7 @@ A sleek and responsive movie browsing app built using **React**, **Vite**, and *
 It fetches data from **The Movie Database (TMDb)** API to display the latest and popular movies.
 
 ### 🔗 Live Demo
-👉 [Click here to view it live]([https://jolly-elf-ccb18b.netlify.app/](https://bright-selkie-3bfb10.netlify.app/))
+👉 [Click here to view it live](https://bright-selkie-3bfb10.netlify.app/))
 
 ---
 
