@@ -30,7 +30,7 @@ It fetches data from **The Movie Database (TMDb)** API to display the latest and
 ## 🧪 Getting Started
 
 ```bash
-git clone https://github.com/yourusername/movie-finder-app.git
-cd movie-finder-app
+git clone https://github.com/mrohacker/moofix-movie-suggestions-.git
+cd moofix-movie-suggestions-
 npm install
 npm run dev
